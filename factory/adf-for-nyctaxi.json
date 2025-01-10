@@ -1,0 +1,9 @@
+{
+	"name": "adf-for-nyctaxi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "872419fe-1c0f-49f8-9b11-973dbeff6ac4",
+		"tenantId": "084a029e-1435-40bc-8201-87ec1b251fb3"
+	}
+}
